@@ -1,0 +1,25 @@
+{
+  "name": "blogr-landing-page",
+  "version": "1.0.0",
+  "description": "This is a landing page with design copied from front-end mentor",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel src/index.html",
+    "build": "parcel build src/index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/veeru-neerukonda/blogr-landing-page.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/veeru-neerukonda/blogr-landing-page/issues"
+  },
+  "homepage": "https://github.com/veeru-neerukonda/blogr-landing-page#readme",
+  "devDependencies": {
+    "@parcel/transformer-sass": "^2.7.0",
+    "parcel": "^2.7.0"
+  }
+}

@@ -1,0 +1,45 @@
+//this system is designed with an assumption that 1rem = 10px
+$spacing-01: .2rem;
+$spacing-02: .4rem;
+$spacing-03: .8rem;
+$spacing-04: 1.2rem;
+$spacing-05: 1.6rem;
+$spacing-06: 2.4rem;
+$spacing-07: 3.2rem;
+$spacing-08: 4rem;
+$spacing-09: 4.8rem;
+$spacing-10: 6.4rem;
+$spacing-11: 8rem;
+$spacing-12: 9.6rem;
+$spacing-13: 16rem;
+
+//uncomment this if 1rem = 16px
+// $spacing-01: .125rem;
+// $spacing-02: .25rem;
+// $spacing-03: .5rem;
+// $spacing-04: .75rem;
+// $spacing-05: 1rem;
+// $spacing-06: 1.5rem;
+// $spacing-07: 2rem;
+// $spacing-08: 2.5rem;
+// $spacing-09: 3rem;
+// $spacing-10: 4rem;
+// $spacing-11: 5rem;
+// $spacing-12: 6rem;
+// $spacing-13: 10rem;
+
+:root{
+    --spacing-01: #{$spacing-01};
+    --spacing-02: #{$spacing-02};
+    --spacing-03: #{$spacing-03};
+    --spacing-04: #{$spacing-04};
+    --spacing-05: #{$spacing-05};
+    --spacing-06: #{$spacing-06};
+    --spacing-07: #{$spacing-07};
+    --spacing-08: #{$spacing-08};
+    --spacing-09: #{$spacing-09};
+    --spacing-10: #{$spacing-10};
+    --spacing-11: #{$spacing-11};
+    --spacing-12: #{$spacing-12};
+    --spacing-13: #{$spacing-13};
+}
